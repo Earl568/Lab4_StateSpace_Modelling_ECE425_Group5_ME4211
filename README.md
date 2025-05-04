@@ -8,3 +8,6 @@ Code
 
 SIMULINK FOR PROBLEM 1
 ![LAB 4 PROB 1 SIMULINK](https://github.com/user-attachments/assets/861b897f-3668-42cd-bf76-a4d84f5d9445)
+
+SIMULINK FOR PROBLEM 2
+![image](https://github.com/user-attachments/assets/aaace8e9-d12c-42c6-99f8-ac8d96e92d93)
